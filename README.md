@@ -7,6 +7,10 @@ A deep learning-based web application that detects whether a person is wearing a
 ## 🚀 Live Demo
 🔗 https://face-mask-detector-sushil.streamlit.app/
 
+
+[![LexiMind Screenshot](![Uploading image.png…]()
+)
+
 ---
 
 ## 📌 Features
