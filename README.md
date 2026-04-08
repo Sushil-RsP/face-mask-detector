@@ -8,8 +8,8 @@ A deep learning-based web application that detects whether a person is wearing a
 🔗 https://face-mask-detector-sushil.streamlit.app/
 
 
-[![LexiMind Screenshot](![Uploading image.png…]()
-)
+![Uploading image.png…]()
+
 
 ---
 
