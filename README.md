@@ -8,7 +8,7 @@ A deep learning-based web application that detects whether a person is wearing a
 🔗 https://face-mask-detector-sushil.streamlit.app/
 
 
-![Uploading image.png…](https://face-mask-detector-sushil.streamlit.app/)
+![Uploading image.png](https://face-mask-detector-sushil.streamlit.app/)
 
 
 
